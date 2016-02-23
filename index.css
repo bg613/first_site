@@ -1,4 +1,21 @@
-#page_content {
+body {
+    		  font-family: 'Raleway', sans-serif;
+    		  text-align: center;
+		      background: black;
+		      font-family: helvetica;
+}
+
+h1 {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+aside {
 	border-style: solid;
-	background-color: red;
+	background-color: grey;
+	color: black;
+	width:150px;
+	height:350px;
+    float:right;
+    padding:10px; 
 }
